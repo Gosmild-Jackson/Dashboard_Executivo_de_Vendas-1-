@@ -58,4 +58,6 @@ O projeto foi desenvolvido como parte da minha preparação para a área de Aná
 ## Arquivo
 
 O arquivo Excel utilizado no projeto está disponível neste repositório.
+## Visualização do Dashboard
 
+![Dashboard Executivo de Vendas](Captura%20de%20tela%202026-09-27%20012842.png)
